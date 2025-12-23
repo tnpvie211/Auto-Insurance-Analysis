@@ -5,38 +5,38 @@ This project aims to analyze the claims performance of an auto insurance company
 
 ## Key Findings: 
 
-    - Loss ratio volatility is severity-driven, not frequency-driven. Claim counts are stable to declining, while average claim severity rises materially mid-year.
+- Loss ratio volatility is severity-driven, not frequency-driven. Claim counts are stable to declining, while average claim severity rises materially mid-year.
     
-    - A small proportion of severe claims contributes disproportionately to incurred losses, settlement duration, and reserve uncertainty.
+- A small proportion of severe claims contributes disproportionately to incurred losses, settlement duration, and reserve uncertainty.
 
-    - Loss emergence follows a predictable lag: claim intake peaks before severity, closures, and loss ratio deterioration.
+- Loss emergence follows a predictable lag: claim intake peaks before severity, closures, and loss ratio deterioration.
 
-    - Current pricing, reserving, and estimation frameworks underperform in the tail, increasing earnings and capital volatility.
+- Current pricing, reserving, and estimation frameworks underperform in the tail, increasing earnings and capital volatility.
 
-    - Operational performance is working well. The primary risk is inflation-driven severity exceeding model and pricing assumptions.
+- Operational performance is working well. The primary risk is inflation-driven severity exceeding model and pricing assumptions.
 
-    - Without intervention, declining frequency may mask structural profitability deterioration.
+- Without intervention, declining frequency may mask structural profitability deterioration.
 
 
 ## Recommendations:
 
-    - Recalibrate financial assumptions for severity inflation
-        - Update pricing, reserving, and reinsurance assumptions to reflect severity growth, not just frequency trends.
-        - Stress-test profitability under +5%, +10%, +15% severity scenarios.
+- Recalibrate financial assumptions for severity inflation
+  - Update pricing, reserving, and reinsurance assumptions to reflect severity growth, not just frequency trends.
+  - Stress-test profitability under +5%, +10%, +15% severity scenarios.
 
-    - Introduce severity-based claim controls
-        - Implement early large-loss flags at FNOL with escalation thresholds.
+- Introduce severity-based claim controls
+  - Implement early large-loss flags at FNOL with escalation thresholds.
 
-    - Apply distinct reserving logic for top 5–10% of claims.
-        - Route severe claims to specialized handlers earlier.
-        - Apply targeted pricing, deductibles, and underwriting controls to private four-wheelers, collision and total loss coverage
+- Apply distinct reserving logic for top 5–10% of claims.
+  - Route severe claims to specialized handlers earlier.
+  - Apply targeted pricing, deductibles, and underwriting controls to private four-wheelers, collision and total loss coverage
 
-    - Strengthen operational resilience mid-year
-        - Add surge capacity (staffing or vendors) during July–September.
-        - Prevent backlog accumulation that amplifies severity and reserve uncertainty.
+- Strengthen operational resilience mid-year
+  - Add surge capacity (staffing or vendors) during July–September.
+  - Prevent backlog accumulation that amplifies severity and reserve uncertainty.
 
-    - Institutionalize leading risk indicators. Track monthly indicators that move before loss ratio deterioration:
-        - Severity mix (% Severe + High)
-        - % estimation error
-        - Backlog size
-        - Settlement duration for severe claims
+- Institutionalize leading risk indicators. Track monthly indicators that move before loss ratio deterioration:
+  - Severity mix (% Severe + High)
+  - % estimation error
+  - Backlog size
+  - Settlement duration for severe claims
