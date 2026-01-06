@@ -2,6 +2,7 @@
 
 This project aims to analyze the claims performance of an auto insurance company by examining key metrics such as claim frequency, severity, payout accuracy,     processing time, and fraud detection effectiveness. By leveraging historical claims data, the project will identify trends, outliers, and inefficiencies. The objective is to gain actionable insights that improve operational efficiency, enhance the accuracy of reimbursements, and support strategic decision-making. Ultimately, the analysis will guide the company toward more data-driven claims management practices, optimizing both customer experience and financial performance.
 
+For the full report, visit: https://drive.google.com/file/d/1XJiJQXSe0SpAAf0UnrhNYky75rDWVkBS/view?usp=sharing
 
 ## Key Findings: 
 
